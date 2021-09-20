@@ -536,7 +536,7 @@ p {
   right: 0;
   top: 0;
   bottom: 0;
-  background-color: rgba(0, 0, 0, 0.3);
+  background-color: rgba(0, 0, 0, 0);
 }
 
 /* Banner Overlay End */
@@ -1214,7 +1214,7 @@ form textarea.form-control {
 .header .navbar-nav > li > a {
   padding: 20px 30px 28px;
   font-family: 'Poppins', sans-serif;
-  font-size: 11px;
+  font-size: 18px;
   line-height: 11px;
   color:black;
   text-transform: uppercase;
@@ -2313,7 +2313,7 @@ form textarea.form-control {
 .menu-list ul li .price-item-main .list-item-title small {
   font-size: 10px;
   line-height: 10px;
-  color: #cccccc;
+  color:black;
 }
 
 .menu-list ul li .price-item-main .price-list-dotted-separator {
@@ -2400,7 +2400,7 @@ form textarea.form-control {
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: rgba(0, 0, 0, 0.4);
+  background-color: rgba(0, 0, 0, 0);
 }
 
 .menu-list-image-block .menu-list-detail {
